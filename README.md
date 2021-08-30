@@ -1,6 +1,10 @@
 Handbook of 'Lean Operations' across the three disciplines of interest in the pursuit of high quality software and product development.
 Design, Data and Dev.
 
+# Deployement
+
+https://lean-ops.vercel.app/
+
 # Docusaurus Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
